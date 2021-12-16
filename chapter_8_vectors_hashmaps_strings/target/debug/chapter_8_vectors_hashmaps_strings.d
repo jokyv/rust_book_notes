@@ -1,0 +1,1 @@
+/home/jokyv/projects/rust_book_notes/chapter_8_vectors_hashmaps_strings/target/debug/chapter_8_vectors_hashmaps_strings: /home/jokyv/projects/rust_book_notes/chapter_8_vectors_hashmaps_strings/src/main.rs
