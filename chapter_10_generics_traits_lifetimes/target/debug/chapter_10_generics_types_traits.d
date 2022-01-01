@@ -1,0 +1,1 @@
+/home/jokyv/projects/rust_book_notes/chapter_10_generics_traits_lifetimes/target/debug/chapter_10_generics_types_traits: /home/jokyv/projects/rust_book_notes/chapter_10_generics_traits_lifetimes/src/main.rs
